@@ -1,5 +1,5 @@
-okta:  
-  oauth2: 
-    issuer: https://dev-578190.okta.com/oauth2/default  
-    client-id: 0oade9uz92PyKFan1356
-    client-secret: tY25Z7zMG0v2kFZFAVtrEea90pz--JGj4tlnjN5_
+okta:
+  oauth2:
+    issuer: https://{yourOktaDomain}/oauth2/default
+    client-id: {yourClientId}
+    client-secret: {yourClientSecret}
