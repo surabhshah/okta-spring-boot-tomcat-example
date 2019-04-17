@@ -44,7 +44,7 @@ okta:
 
 After modifying this file, start the example and you should be able to authenticate with Okta at `http://localhost:8080`.
 
-## Packaging
+### Packaging
 
 To package the project (and create the WAR) run the following:
 
