@@ -16,8 +16,8 @@ This repository shows how to create a WAR file from a Spring Boot 2.1 project fo
 To install this example, run the following commands:
 
 ```bash
-https://github.com/oktadeveloper/okta-spring-boot-tomcat-example.git
-okta-spring-boot-tomcat-example
+git clone https://github.com/oktadeveloper/okta-spring-boot-tomcat-example.git
+cd okta-spring-boot-tomcat-example
 ```
 
 To run this example, you'll need to create an account and OIDC app on Okta.
