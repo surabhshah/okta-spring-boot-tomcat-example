@@ -28,7 +28,7 @@ Log in to your Okta Developer account (or [sign up](https://developer.okta.com/s
 
 1. From the **Applications** page, choose **Add Application**.
 2. On the Create New Application page, select **Web**.
-3. Give your app a memorable name, then click **Done**.
+3. Give your app a memorable name, add `http://localhost:8080/login/oauth2/code/okta` as a Login redirect URI, then click **Done**.
 
 Copy your issuer (found under **API** > **Authorization Servers**), client ID, and client secret into `src/main/resources/application.yml` as follows:
 
